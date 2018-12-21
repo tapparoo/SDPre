@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.lang.model.util.ElementScanner6;
-
 public class Objective4Lab3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
